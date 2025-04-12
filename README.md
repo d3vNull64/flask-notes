@@ -20,12 +20,17 @@ A Flask and Bootstrap project for managing notes. It allows users to create, sav
 * Display an alert when note is deleted.
 
 ## Screenshots
+* Welcome
 ![welcome](./assets/1.png "welcome")
 
+* Empty
 ![empty](./assets/2.png "empty")
 
+* Notes
 ![notes](./assets/3.png "notes")
 
+* Edited
 ![edit](./assets/4.png "edit")
 
+* Deleted
 ![delete](./assets/5.png "delete")
