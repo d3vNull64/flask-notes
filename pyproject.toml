@@ -1,0 +1,16 @@
+[project]
+name = "Note Manager"
+version = "0.1.0"
+description = "Basic note manager with Flask, Bootstrap and SQLite"
+authors = [
+    { name = "Omar Rivera", email = "d3vNull64@gmail.com" },
+]
+dependencies = [
+    "flask",
+]
+requires-python = "==3.13.*"
+readme = "README.md"
+license = "GPL-3.0-or-later"
+
+[tool.pdm]
+distribution = false

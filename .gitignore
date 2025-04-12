@@ -1,0 +1,6 @@
+# [files]
+.pdm-python
+pdm.lck
+
+# [directories]
+__pycache__/
