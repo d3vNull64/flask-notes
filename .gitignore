@@ -1,6 +1,6 @@
 # [files]
 .pdm-python
-pdm.lck
+pdm.lock
 
 # [directories]
 __pycache__/
