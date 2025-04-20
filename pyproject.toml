@@ -3,7 +3,7 @@ name = "Note Manager"
 version = "0.1.0"
 description = "Basic note manager with Flask, Bootstrap and SQLite"
 authors = [
-    { name = "Omar Rivera", email = "d3vNull64@gmail.com" },
+    { name = "Omar Rivera" },
 ]
 dependencies = [
     "flask",
